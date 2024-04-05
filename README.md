@@ -17,7 +17,7 @@
 
 
 ### Note
-- Pankaj.ipynb file for Jupiter notebook
+- Harsh.ipynb file for Jupiter notebook
 and Pankaj.py file for code editor
 - In the training folder, files are for refernce and in the testing folder , files are for testing.
-- This project is for Minor project intership @ IIIT Gwalior
+
