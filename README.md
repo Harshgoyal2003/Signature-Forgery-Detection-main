@@ -3,7 +3,7 @@
 ## Explaination of the Project in Video : [YouTube Link](https://youtu.be/Lr-kdXCNXko) 
 
 ### Details of folder is as follows -
-- Pankaj.ipynb file contains model
+- Harsh.ipynb file contains model
 - Forged Images contain dataset for this project in form of real 
 - Real Images contain dataset for this project in form of real 
 - "training folder" will save the trained images(this folder will create when you will execute the code)
@@ -18,6 +18,6 @@
 
 ### Note
 - Harsh.ipynb file for Jupiter notebook
-and Pankaj.py file for code editor
+and Harsh.py file for code editor
 - In the training folder, files are for refernce and in the testing folder , files are for testing.
 
